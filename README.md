@@ -1,5 +1,7 @@
 # n8n Workflow Generator
 It acts as an intelligent agent that generates a complete, ready-to-run n8n workflow from a single plain-text prompt. It uses Google Gemini API to interpret natural language and constructs the corresponding workflow JSON, which is then automatically created in your n8n instance via the n8n API call.
+## Demo video:
+### https://drive.google.com/file/d/1ezlkPp-q5mAGYJGBgj2Qvk4i_PVzDljz/view?usp=sharing
 <br>
 
 ## How It Works
